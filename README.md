@@ -2,4 +2,4 @@
 ### Computer Science Student at the University of Notre Dame, Class of 2024 🍀
 
 - 🔭 **Interests**: Passionate in **Software Development**, **Machine Learning**, and **Data Science**
-- 🌱 **Currently Learning**: Design Patterns and Web and App Development. Check out my Full Stack React App (wip) at MKTimes.gg
+- 🌱 **Currently Learning**: Design Patterns and Web and App Development. 
